@@ -6,7 +6,7 @@ namespace Sample_Console_Application
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("new Hello World!");
+            Console.WriteLine(" Hello World!");
         }
     }
 }
