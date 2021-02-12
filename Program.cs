@@ -6,7 +6,8 @@ namespace Sample_Console_Application
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("updated one Hello World!");
+
+            Console.WriteLine("removed updated one Hello World!");
         }
     }
 }
