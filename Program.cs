@@ -7,7 +7,7 @@ namespace Sample_Console_Application
         static void Main(string[] args)
         {
 
-            Console.WriteLine("removed updated one Hello World!");
+            Console.WriteLine("and updated one Hello World!");
         }
     }
 }
